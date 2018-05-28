@@ -3,39 +3,38 @@ Mianyu Wang
 
 Phone: +1 215 370 8797
 Email: mianyu.wang@gmail.com
-www.linkedin.com/in/mianyu-wang-5236815/
 
 Summary
 ---------
-* Expertise in sustainable design and hands-on development skills in large scale distributed software systems. Full-stack technology enthusiast to apply technology to solve emerging new challenges or overhaul existing problems in finance domain. Do the right thing.
+* Expertise in sustainable design and hands-on development in large scale distributed systems. Full-stack technology enthusiast to solve new challenges or overhaul existing problems. Do the right thing.
 
 Work Experience
 ---------------
 
-*   **Derivatives Data / Derivatives Structuring - Engineering, Bloomberg L.P.** (New York City)
+*   **Derivatives Data / Derivatives Structuring - Engineering, Bloomberg L.P.** (New York, NY)
 
     *Initiative Tech Architect*, 2014 - now
 
-    -   Lead architect of Derivatives API initiative, unified programming interfaces to access derivatives data and analytical functionalities for front office and enterprise client applications, including contract structuring, lifecycle, pricing, deal uploader, dynamic schema discovery, market data analytics, scenario management. 
-    -   Detailed implementation of various core libraries, services, databases.
-    -   The system powers many critical applications such as trading workflows compliant to MiFID II, uploader, valuation services, and desktop and enterprise applications beyond Bloomberg terminal.
+    - Lead architecturing of Derivatives API initiative, providing front office trading and enterprise applications with a suite of unified programming interfaces to access data and analytics of any underlying asset classes such as equity and interest rate.
+    - Designed API components including contract management, dynamic schema discovery, market data analytics, and scenario management.
+    - Detailed implementation of various libraries, services, databases, tracing, and business metrics. 
+    - The framework powers many critical applications such as trading workflows compliant to MiFID II regulation, enterprise uploader, instant messages, valuation services, and Excel toolkit beyond Bloomberg terminal.
 
-*   **Cross Asset Derivatives Pricing - Engieering, Bloomberg L.P.** (New York City)
+*   **Cross Asset Derivatives Pricing - Engieering, Bloomberg L.P.** (New York, NY)
 
     *Senior Software Engineer*, 2011 - 2014
 
-    -   Primary designer and contributor of a startup team to build the next generation derivative library (DLIB) for structuring and evaluating cross-asset exotic derivatives;
-    -   Re-factorized the framework of Monte Carlo based pricing flow;
-    -   Designed and developed the parallel pricing engine and reusable scenario UI component for scenario analysis;
+    - Primary designer and contributor of a startup team to build the next generation derivative library (DLIB) for structuring and evaluating cross-asset exotic derivatives.
+    - Re-factorized the framework of Monte Carlo based pricing flow to allow parallel pricing.
+    - Designed and developed the pricing engine and reusable UI component for scenario analysis.
+    - Developed the new autocallable/phoenix contract type and the corresponding pricing in GPU.
 
-*   **Fixed Income Pricing - Engineering, Bloomberg L.P.** (New York City)
+*   **Fixed Income Pricing - Engineering, Bloomberg L.P.** (New York, NY)
 
-    *Software Developer*, 2008 - 2011
+    *Software Engineer*, 2008 - 2011
 
-    -   Increased the capacity of existing fixed income pricing data contribution;
-    -   Overhauled the infrastructure and data delivery for large scale platform using data driven approach to lower maintenance cost and speed up turnaround;
-    -   Managed and developed projects for various new fixed income applications.
-
+    - Overhauled the infrastructure of existing government and corporate bonds pricing contribution using data driven approach to lower maintenance cost and speed up release cycle from more than one week to overnight;tripled the capacity of fixed income pricing sources for contribution.
+    - Managed and developed various projects such as composite price engine, loan search function.
 
 Education
 ---------
@@ -44,9 +43,10 @@ Education
 
     *Ph.D in Electrical and Computer Engineering, M.S. in Mathematics*, Dec 2007
 
-    - Thesis title: A Decentralized Control and Optimization Framework for Autonomic Performance Management of Web-Server Systems.
+    - Thesis Title: A Decentralized Control and Optimization Framework for Autonomic Performance Management of Web-Server Systems.
 
 Skills
 ------
 
-*   C/C++, JavaScript, OCaml, Python, Shell Script
+*   Proficent: C/C++, JavaScript
+*   Familiar: OCaml, Shell Script, Python
