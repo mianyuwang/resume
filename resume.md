@@ -15,7 +15,7 @@ Work Experience
 
     *Initiative Tech Architect*, 2014 - now
 
-    - Lead architecturing of Derivatives API initiative, providing front office trading and enterprise applications with a suite of unified programming interfaces to access data and analytics of any underlying asset classes such as equity and interest rate.
+    - Lead architecturing of Derivatives API initiative, providing front office trading and enterprise applications with a suite of unified programming interfaces to access data and analytics of any underlying assets such as equity, interest rate, and foreign exchange.
     - Designed API components including contract management, dynamic schema discovery, market data analytics, and scenario management.
     - Detailed implementation of various libraries, services, databases, tracing, and business metrics. 
     - The framework powers many critical applications such as trading workflows compliant to MiFID II regulation, enterprise uploader, instant messages, valuation services, and Excel toolkit beyond Bloomberg terminal.
@@ -27,14 +27,14 @@ Work Experience
     - Primary designer and contributor of a startup team to build the next generation derivative library (DLIB) for structuring and evaluating cross-asset exotic derivatives.
     - Re-factorized the framework of Monte Carlo based pricing flow to allow parallel pricing.
     - Designed and developed the pricing engine and reusable UI component for scenario analysis.
-    - Developed the new autocallable/phoenix contract type and the corresponding pricing in GPU.
+    - Developed the generic autocallable/phoenix deal type and the corresponding payoff in GPU.
 
 *   **Fixed Income Pricing - Engineering, Bloomberg L.P.** (New York, NY)
 
     *Software Engineer*, 2008 - 2011
 
-    - Overhauled the infrastructure of existing government and corporate bonds pricing contribution using data driven approach to lower maintenance cost and speed up release cycle from more than one week to overnight;tripled the capacity of fixed income pricing sources for contribution.
-    - Managed and developed various projects such as composite price engine, loan search function.
+    - Overhauled the infrastructure of existing government and corporate bonds pricing contribution using data driven approach to lower maintenance cost and speed up release cycle from more than one week to overnight and tripled the capacity of fixed income pricing sources for contribution.
+    - Managed and developed various projects such as real-time composite price engine, loan search.
 
 Education
 ---------
@@ -49,4 +49,4 @@ Skills
 ------
 
 *   Proficent: C/C++, JavaScript
-*   Familiar: OCaml, Shell Script, Python
+*   Familiar: OCaml, Python, PShell Script
