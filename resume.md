@@ -13,10 +13,10 @@ Work Experience
 
 *   **Derivatives Data / Derivatives Structuring - Engineering, Bloomberg L.P.** (New York, NY)
 
-    *Initiative Tech Architect*, 2014 - now
+    *Senior Software Engineer*, 2014 - now
 
-    - Lead architecturing of Derivatives API initiative, providing front office trading and enterprise applications with a suite of unified programming interfaces to access data and analytics of any underlying assets such as equity, interest rate, and foreign exchange.
-    - Designed API components including contract management, dynamic schema discovery, market data analytics, and scenario management.
+    - Lead Derivatives API initiative, providing front office trading and enterprise applications with a suite of unified programming interfaces to access data and analytics of any underlying assets such as equity, interest rate, and foreign exchange.
+    - Architected various API components including contract management, dynamic schema discovery, market data analytics, and scenario management.
     - Detailed implementation of various libraries, services, databases, tracing, and business metrics. 
     - The framework powers many critical applications such as trading workflows compliant to MiFID II regulation, enterprise uploader, instant messages, valuation services, and Excel toolkit beyond Bloomberg terminal.
 
@@ -24,7 +24,7 @@ Work Experience
 
     *Senior Software Engineer*, 2011 - 2014
 
-    - Primary designer and contributor of a startup team to build the next generation derivative library (DLIB) for structuring and evaluating cross-asset exotic derivatives.
+    - Primary contributor and team lead backup of the startup team to build the next generation derivative library (DLIB) for structuring and evaluating cross-asset exotic derivatives.
     - Re-factorized the framework of Monte Carlo based pricing flow to allow parallel pricing.
     - Designed and developed the pricing engine and reusable UI component for scenario analysis.
     - Developed the generic autocallable/phoenix deal type and the corresponding payoff in GPU.
@@ -49,4 +49,4 @@ Skills
 ------
 
 *   Proficent: C/C++, JavaScript
-*   Familiar: OCaml, Python, PShell Script
+*   Familiar: OCaml, Python, Shell Script
