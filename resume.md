@@ -4,37 +4,34 @@ Mianyu Wang
 Phone: +1 215 370 8797
 Email: mianyu.wang@gmail.com
 
-Summary
----------
-* Expertise in sustainable design and hands-on development in large scale distributed systems. Full-stack technology enthusiast to solve new challenges or overhaul existing problems. Do the right thing.
-
 Work Experience
 ---------------
 
-*   **Derivatives Data / Derivatives Structuring - Engineering, Bloomberg L.P.** (New York, NY)
+*   **Bloomberg L.P.** (New York, NY)
+    
+    *Scrum Master/Full Stack Engineer*, Developer Experience Workflow Platform, Aug 2018 - Present
 
-    *Senior Software Engineer*, 2014 - now
+    - Master the agile development team to deliver one-stop PaaS solution for firm wide SDLC with Github Enterprise, Jenkins CI, various build, packaging, and releasing tools.
+    - Architecture the all new web front end in React/Redux/NodeJS working with existing RESTful and Kafka backend.
+    - Lead and advocate the migration of team's services deployment from VM/Chef to Docker containers/Kubernetes.
 
-    - Lead Derivatives API initiative, providing front office trading and enterprise applications with a suite of unified programming interfaces to access data and analytics of any underlying assets such as equity, interest rate, and foreign exchange.
-    - Architected various API components including contract management, dynamic schema discovery, market data analytics, and scenario management.
-    - Detailed implementation of various libraries, services, databases, tracing, and business metrics. 
-    - The framework powers many critical applications such as trading workflows compliant to MiFID II regulation, enterprise uploader, instant messages, valuation services, and Excel toolkit beyond Bloomberg terminal.
+    *Tech Lead/Software Architect*, Derivatives Engineering, Nov 2014 - Aug 2018
 
-*   **Cross Asset Derivatives Pricing - Engieering, Bloomberg L.P.** (New York, NY)
+    - Drove initiative of Derivatives API, providing front office trading and enterprise applications with unified programming interfaces to access data and analytics across any underlying assets such as equity, interest rate, and foreign exchange.
+    - Architected various API components including contract management, dynamic schema discovery, market data analytics, and risk scenario management.
+    - Implemented various libraries, services, databases, tracing, and business metrics. 
+    - The framework powers many critical applications such as trading workflows compliant to MiFID II regulation, enterprise uploader, instant messages, valuation services, and Excel toolkit.
 
-    *Senior Software Engineer*, 2011 - 2014
+    *Senior Software Engineer*, Cross Asset Derivatives Pricing, Nov 2011 - Nov 2015
 
-    - Primary contributor and team lead backup of the startup team to build the next generation derivative library (DLIB) for structuring and evaluating cross-asset exotic derivatives.
+    - Team lead backup of a startup team to build the next generation derivative library (DLIB) for structuring and evaluating cross-asset exotic derivatives.
     - Re-factorized the framework of Monte Carlo based pricing flow to allow parallel pricing.
-    - Designed and developed the pricing engine and reusable UI component for scenario analysis.
-    - Developed the generic autocallable/phoenix deal type and the corresponding payoff in GPU.
+    - Developed the pricing engine and reusable UI component for scenario analysis.
 
-*   **Fixed Income Pricing - Engineering, Bloomberg L.P.** (New York, NY)
-
-    *Software Engineer*, 2008 - 2011
+    *Software Engineer*, Fixed Income Pricing, Jan 2008 - Nov 2011
 
     - Overhauled the infrastructure of existing government and corporate bonds pricing contribution using data driven approach to lower maintenance cost and speed up release cycle from more than one week to overnight and tripled the capacity of fixed income pricing sources for contribution.
-    - Managed and developed various projects such as real-time composite price engine, loan search.
+    - Managed and developed various projects such as real-time composite price engine, search system for loan secruities.
 
 Education
 ---------
@@ -48,5 +45,10 @@ Education
 Skills
 ------
 
-*   Proficent: C/C++, JavaScript
-*   Familiar: OCaml, Python, Shell Script
+* Programming Languages:
+    - Proficent: C/C++, JavaScript, NodeJS
+    - Familiar: Python, OCaml, Shell Script
+
+Summary
+---------
+* Sustainable design and development of distributed application's full stack. Solve new challenges and overhaul legacy problems in Enterprise scale. Improving development lifecycle using continuous delivery, agile development, and DevOps philosophy.
